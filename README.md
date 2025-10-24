@@ -15,4 +15,4 @@ Personal developer log for documenting onchain and Farcaster experiments.
 ## Notes
 This journal collects practical dev notes and experiment logs — not a roadmap or metrics tracker.
 
-_Last updated: 2025-10-24_
+Last updated: 2025-10-24
