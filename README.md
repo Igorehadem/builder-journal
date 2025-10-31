@@ -16,3 +16,9 @@ Personal developer log for documenting onchain and Farcaster experiments.
 This journal collects practical dev notes and experiment logs — not a roadmap or metrics tracker.
 
 Last updated: 2025-10-24
+
+## Recent Updates
+
+- 🗓 November 2025 — Started new monthly journal  
+- 🔗 Synced Farcaster Bot Core and Base Caster Lab entries  
+- 📊 Metrics section updated (Builder XP, Contributions)
