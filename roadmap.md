@@ -1,19 +1,20 @@
-# Roadmap
+# 🗺️ Roadmap
 
-### Q4 2025
+## Q4 2025
 - [x] Verify first smart contract on Base  
 - [x] Set up Farcaster Bot Core  
-- [ ] Implement Neynar API connection  
-- [ ] Build a Remix Frame for BaseToken interaction  
-
-### Q1 2026
-- [ ] Establish stable CI/CD for Base + Farcaster projects  
-- [ ] Publish public dev log on Mirror or Paragraph  
+- [x] Deploy Base Wallet Screener (API + Frame)  
+- [ ] Connect Neynar API for posting  
+- [ ] Publish Onchain Safety Checklist v1  
 
 ---
 
-## 🧭 Next Steps
-- Add Neynar API module to Farcaster Bot Core  
-- Document Base integration for Frame Tester  
-- Experiment with Base SDK for wallet interactions  
-- Publish open-source snippets for contract verification  
+## Q1 2026
+- [ ] CI/CD unification for all Base/Farcaster repos  
+- [ ] Public Builder Journal on Mirror/Paragraph  
+- [ ] Add token analytics & gas leaderboard to Screener  
+- [ ] Release Remix Mini Contracts v2  
+
+---
+
+_Updated: 2025-11-10_
