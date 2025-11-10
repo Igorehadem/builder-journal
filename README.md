@@ -1,34 +1,52 @@
-# Builder Journal 🧭
+![CI](https://github.com/Igorehadem/builder-journal/actions/workflows/ci.yml/badge.svg)
+![License](https://img.shields.io/github/license/Igorehadem/builder-journal)
+![Last Commit](https://img.shields.io/github/last-commit/Igorehadem/builder-journal)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
 
-Personal developer log for documenting onchain and Farcaster experiments.
+# 🧭 Builder Journal
 
-## Focus
-- Smart contract development on Base
-- Farcaster bot integrations
-- Onchain analytics and Frames
-- Open-source utilities and safety tools
-
-## Active Projects
-- [Base Wallet Screener](https://github.com/Igorehadem/base-wallet-screener)
-- [BaseToken Contract](https://github.com/Igorehadem/base-token-contract)
-- [Farcaster Bot Core](https://github.com/Igorehadem/farcaster-bot-core)
-- [Onchain Safety Checklist](https://github.com/Igorehadem/onchain-safety-checklist)
-
-## Notes
-This journal collects practical dev notes and experiment logs — not a roadmap or metrics tracker.  
-Entries are organized by month under `/timeline` and detailed in `/progress`.
-
-**Last updated:** 2025-11-06
+Personal **developer log** tracking onchain experiments, Farcaster integrations,  
+and open-source progress across the **Base ecosystem**.
 
 ---
 
-## Recent Updates
+## 🧩 Focus Areas
 
-- 🧠 **Base Wallet Screener** — launched Farcaster MiniApp with live Base analytics  
-- 🗓 **November 2025** — added new week log and reflections  
-- ⚙️ Integrated Etherscan API v2 + dynamic OG images  
-- 🔗 Synced Builder Journal with Base / Farcaster project logs  
+- Smart contracts on **Base Mainnet**
+- Farcaster bot & Frame development
+- Onchain analytics & automation
+- Open-source safety & builder tooling
 
 ---
 
-> *“Document what you build. Build what you wish existed.”*
+## 🚀 Active Projects
+
+| Project | Description |
+|----------|--------------|
+| [Base Wallet Screener](https://github.com/Igorehadem/base-wallet-screener) | Farcaster MiniApp with Base wallet analytics |
+| [BaseToken Contract](https://github.com/Igorehadem/base-token-contract) | Verified ERC-20 contract on Base Mainnet |
+| [Farcaster Bot Core](https://github.com/Igorehadem/farcaster-bot-core) | Core engine for automated Farcaster posting |
+| [Onchain Safety Checklist](https://github.com/Igorehadem/onchain-safety-checklist) | Best-practice checklist for onchain safety |
+
+---
+
+## 🗓 Journal Structure
+
+- `/journal/` — Monthly logs (Q3–Q4 2025)
+- `/assets/` — Visuals & infographics
+- [`roadmap.md`](./roadmap.md) — Long-term builder goals & milestones
+
+---
+
+## 🧠 Recent Highlights
+
+- 🧩 **Base Wallet Screener** — launched live Farcaster MiniApp  
+- ⚙️ **Farcaster Bot Core** — added structured logging + Neynar stub  
+- 📊 **Analytics Sync** — integrated Etherscan v2 & OG dynamic previews  
+- 🗓 **November 2025** — published new week log and reflections  
+
+---
+
+> “Document what you build. Build what you wish existed.”
+
+**Last updated:** 2025-11-10
