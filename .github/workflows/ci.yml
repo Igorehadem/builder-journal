@@ -1,0 +1,31 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Validate Markdown files
+        uses: avto-dev/markdown-lint@v1
+        with:
+          config: .markdownlint.yml
+        continue-on-error: true
+
+      - name: Check roadmap existence
+        run: |
+          if [ ! -f "roadmap.md" ]; then
+            echo "❌ Missing roadmap.md"; exit 1;
+          fi
+          echo "✅ roadmap.md present"
+
+      - name: Print summary
+        run: |
+          echo "🧭 Builder Journal CI passed on $(date -u)"
