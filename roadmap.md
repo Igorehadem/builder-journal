@@ -17,4 +17,12 @@
 
 ---
 
+## ✅ Active Tasks (as of Nov 2025)
+- Neynar API → Farcaster Bot Core  
+- Base onchain bridge → Frame Tester  
+- Token analytics → Wallet Screener  
+- Documentation → Onchain Safety Checklist  
+- CI health checks for all Base projects  
+
+
 _Updated: 2025-11-10_
