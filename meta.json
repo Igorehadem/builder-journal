@@ -1,6 +1,12 @@
 {
   "author": "Igorehadem",
-  "projects": ["base-token-contract", "farcaster-bot-core"],
-  "updated": "2025-10-25T08:00:00+03:00",
-  "entries": 3
+  "projects": [
+    "base-wallet-screener",
+    "farcaster-bot-core",
+    "onchain-safety-checklist",
+    "base-token-contract",
+    "builder-journal"
+  ],
+  "updated": "2025-11-10T00:00:00+03:00",
+  "entries": 5
 }
